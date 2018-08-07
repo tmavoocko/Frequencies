@@ -1,0 +1,99 @@
+Jak bylo videt navrhovane jmeno souboru bylo to same jaky soubor jsme naposledy otevirali.Obsahem tohoto souboru se stal horni text osah spodniho okna se pro funkci ukladani KOMPLETNE ignoruje.:-) HELE
+-------------------------------------------
+Your text contains:
+146 words. 
+Letters Count: 
+914
+Frequency of occurrence: 
+WhiteSpace: 
+=) 15 *
+WhiteSpace:  =) 136 *
+Separator:  =) 0 *
+Letter: A=) 1 *
+Letter: B=) 2 *
+Letter: C=) 2 *
+Letter: D=) 1 *
+Letter: E=) 6 *
+Letter: F=) 1 *
+Letter: H=) 1 *
+Letter: I=) 3 *
+Letter: J=) 2 *
+Letter: K=) 1 *
+Letter: L=) 3 *
+Letter: M=) 1 *
+Letter: N=) 6 *
+Letter: O=) 6 *
+Letter: P=) 2 *
+Letter: R=) 1 *
+Letter: S=) 1 *
+Letter: T=) 7 *
+Letter: U=) 2 *
+Letter: V=) 3 *
+Letter: Y=) 1 *
+Letter: Z=) 1 *
+Letter: a=) 59 *
+Letter: b=) 14 *
+Letter: c=) 20 *
+Letter: d=) 16 *
+Letter: e=) 73 *
+Letter: f=) 3 *
+Letter: g=) 4 *
+Letter: h=) 20 *
+Letter: i=) 41 *
+Letter: j=) 16 *
+Letter: k=) 30 *
+Letter: l=) 21 *
+Letter: m=) 22 *
+Letter: n=) 48 *
+Letter: o=) 75 *
+Letter: p=) 13 *
+Letter: r=) 29 *
+Letter: s=) 34 *
+Letter: t=) 58 *
+Letter: u=) 29 *
+Letter: v=) 23 *
+Letter: w=) 2 *
+Letter: x=) 9 *
+Letter: y=) 20 *
+Letter: z=) 13 *
+-------------------------------------------
+Your text contains:
+30 slov, 
+Celkem použito písmen: 
+201
+Frekvence výskytu: 
+Mezera:  =) 29 x
+Oddělovač:  =) 0 x
+Písmeno: E=) 4 x
+Písmeno: H=) 1 x
+Písmeno: J=) 1 x
+Písmeno: K=) 1 x
+Písmeno: L=) 2 x
+Písmeno: M=) 1 x
+Písmeno: N=) 1 x
+Písmeno: O=) 2 x
+Písmeno: P=) 1 x
+Písmeno: T=) 1 x
+Písmeno: a=) 13 x
+Písmeno: b=) 6 x
+Písmeno: c=) 1 x
+Písmeno: d=) 4 x
+Písmeno: e=) 12 x
+Písmeno: f=) 1 x
+Písmeno: g=) 1 x
+Písmeno: h=) 6 x
+Písmeno: i=) 8 x
+Písmeno: j=) 4 x
+Písmeno: k=) 5 x
+Písmeno: l=) 6 x
+Písmeno: m=) 4 x
+Písmeno: n=) 10 x
+Písmeno: o=) 23 x
+Písmeno: p=) 3 x
+Písmeno: r=) 8 x
+Písmeno: s=) 12 x
+Písmeno: t=) 8 x
+Písmeno: u=) 8 x
+Písmeno: v=) 4 x
+Písmeno: x=) 1 x
+Písmeno: y=) 4 x
